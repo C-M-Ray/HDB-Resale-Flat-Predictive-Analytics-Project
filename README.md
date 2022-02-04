@@ -1,2 +1,2 @@
 # HDB Resale Flat Predictive-Analytics-Project
-A data analytics project on HDB Resale Housing Flat Prices.
+A data analytics project applying predictive techniques to predict HDB Resale Housing Flat Prices in Singapore 
