@@ -1,5 +1,5 @@
-# HDB Resale Flat Predictive-Analytics-Project  
-Nanyang Nanyang Business School (AY2020/2021 Sem 2)
+# HDB Resale Flat Predictive-Analytics-Project
+Nanyang Nanyang Business School (AY2020/2021 Sem 2)  
 BC2407 Analytics II: Advanced Predictive Techniques  
 
 *A data analytics project applying predictive techniques to predict HDB Resale Housing Flat Prices in Singapore*  
